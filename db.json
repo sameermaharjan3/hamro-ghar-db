@@ -1,0 +1,53 @@
+{
+    "orders": [
+      {
+        "name": "Lynlee",
+        "address": "Bayrose Dr",
+        "phone": "8082396351",
+        "items": [
+          {
+            "itemName": "Momo",
+            "quantity": 2
+          }
+        ],
+        "specialReq": "normal",
+        "paid": true,
+        "fulfilled": false,
+        "id": 1
+      },
+      {
+        "name": "Sarah",
+        "address": "Ocean Breeze",
+        "phone": "9143695611",
+        "items": [
+          {
+            "itemName": "Biryani",
+            "quantity": 2
+          },
+          {
+            "itemName": "Thali",
+            "quantity": 1
+          }
+        ],
+        "specialReq": "spicy",
+        "paid": true,
+        "fulfilled": false,
+        "id": 2
+      },
+      {
+        "name": "Garda",
+        "address": "Lago Acero",
+        "phone": "8972340052",
+        "items": [
+          {
+            "itemName": "Chicken Curry",
+            "quantity": 2
+          }
+        ],
+        "specialReq": "no spicy",
+        "paid": true,
+        "fulfilled": false,
+        "id": 3
+      }
+    ]
+  }
